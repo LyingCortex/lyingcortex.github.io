@@ -21,7 +21,7 @@ categories: recommendation
 - [人间指南](https://renjianzhinan.fm/)：HB
 - [Nick Talk](https://www.nicktalk.com/), [白社匯](https://www.nicktalk.com/baishehui?format=rss)
 - [津津乐道](https://jinjinledao.org/)：天津人，科技，码农，创业，旅游，签证，美食
-- [[Byte.Coffe](http://byte.coffee/)：学术新秀
+- [Byte.Coffe](http://byte.coffee/)：学术新秀
 - [翻转电台](http://rss.lizhi.fm/rss/1057263.xml)：李厚辰的经典阅读
 - [USDB优斯迪吧](http://rss.lizhi.fm/rss/319265.xml)
 - [联客](http://rss.lizhi.fm/rss/1040051.xml)：大灰狠，剧情
@@ -48,7 +48,7 @@ categories: recommendation
 - [天书FM](http://tianshuguangbo.com/blog?format=RSS)：考古，文字
 - [欧丽娟红楼梦](http://podcast-beta.miao.li/xml/lizhi/936538/rss.xml)
 - [《经济学讲义》课程讲授](https://rsshub.app/ximalaya/album/386120.rss)
-- [[转折点:职场访谈](https://getpodcast.xyz/data/ximalaya/14481730.xml)
+- [转折点:职场访谈](https://getpodcast.xyz/data/ximalaya/14481730.xml)
 - [从零道一](http://feeds.feedburner.com/0says1)
 - [小凤直播室](http://rss.kaolafm.com/MZ_RSS/rss/1100000046071/album.xml)
 - [一席](http://rss.kaolafm.com/MZ_RSS/rss/1100000046138/album.xml)
@@ -57,7 +57,7 @@ categories: recommendation
 - [孙中兴](http://podcast-beta.miao.li/xml/netease/349551665/rss.xml)
 - [独立日](https://riyu.squarespace.com/independenceday), [日语日语](https://riyu.squarespace.com/hibi?format=rss)
 
-## 飞渡重洋
+## 飞跃重洋
 - [不傻在欧洲](https://getpodcast.xyz/data/ximalaya/3501680.xml)
 - [德国FM甘草糖](http://rss.lizhi.fm/rss/340976.xml)
 - [德漂茶馆](http://rss.lizhi.fm/rss/3503970.xml)
