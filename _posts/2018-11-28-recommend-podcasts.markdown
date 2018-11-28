@@ -5,7 +5,7 @@ date:   2018-11-28 16:06:09 +0800
 categories: recommendation
 ---
 
-从2015年起，陆续听了不少中文播客，不论是独立的小众或非小众播客，还是各类FM云音乐平台，都搜寻了一些自己感兴趣的内容，设计到科技、艺术、读书、游戏、感悟等。
+从2015年起，陆续听了不少中文播客，不论是独立的小众或非小众播客，还是各类FM云音乐平台，都搜寻了一些自己感兴趣的内容，设计到科技、艺术、读书、游戏、影视、感悟等。
 ## 常听
 - [IPN相关](https://ipn.li/)：一天世界，太医来了，灭茶苦茶，内和恐慌，硬影像，选美，疯投圈
 - [博物志](https://bowuzhi.fm/)
@@ -47,7 +47,7 @@ categories: recommendation
 ## 泛学术
 - [天书FM](http://tianshuguangbo.com/blog?format=RSS)：考古，文字
 - [欧丽娟红楼梦](http://podcast-beta.miao.li/xml/lizhi/936538/rss.xml)
-- [经济学讲义》课程讲授](https://rsshub.app/ximalaya/album/386120.rss)
+- [《经济学讲义》课程讲授](https://rsshub.app/ximalaya/album/386120.rss)
 - [[转折点:职场访谈](https://getpodcast.xyz/data/ximalaya/14481730.xml)
 - [从零道一](http://feeds.feedburner.com/0says1)
 - [小凤直播室](http://rss.kaolafm.com/MZ_RSS/rss/1100000046071/album.xml)
