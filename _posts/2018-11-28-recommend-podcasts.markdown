@@ -44,7 +44,7 @@ categories: recommendation
 - [PAGE SEVEN 胡先笙](http://www.ximalaya.com/album/343368.xml), [胡先笙炼金夜话](https://getpodcast.xyz/data/163/526577852.xml), [笙考数理化](http://podcast-beta.miao.li/xml/netease/341037051/rss.xml)
 - [纽约文化沙龙](http://nyshalong.com/public/rss/itunes_podcast_rss_feed.xml)
 
-##泛学术
+## 泛学术
 - [天书FM](http://tianshuguangbo.com/blog?format=RSS)：考古，文字
 - [欧丽娟红楼梦](http://podcast-beta.miao.li/xml/lizhi/936538/rss.xml)
 - [经济学讲义》课程讲授](https://rsshub.app/ximalaya/album/386120.rss)
@@ -57,7 +57,7 @@ categories: recommendation
 - [孙中兴](http://podcast-beta.miao.li/xml/netease/349551665/rss.xml)
 - [独立日](https://riyu.squarespace.com/independenceday), [日语日语](https://riyu.squarespace.com/hibi?format=rss)
 
-##飞渡重洋
+## 飞渡重洋
 - [不傻在欧洲](https://getpodcast.xyz/data/ximalaya/3501680.xml)
 - [德国FM甘草糖](http://rss.lizhi.fm/rss/340976.xml)
 - [德漂茶馆](http://rss.lizhi.fm/rss/3503970.xml)
@@ -65,13 +65,13 @@ categories: recommendation
 - [歪椅斜桌](http://rss.lizhi.fm/rss/1005684.xml)
 
 
-##评论、闲谈
+## 评论、闲谈
 - [冬吴同学会](http://podcast.forecho.com/ximalaya/8475135.rss)
 - [Blow Your Mind](http://rss.lizhi.fm/rss/14774.xml)
 - [不搭电台](http://rss.lizhi.fm/rss/13342.xml)
 - [因缺思挺](http://rss.lizhi.fm/rss/1511974.xml)
 - [80度radio](http://rss.lizhi.fm/rss/13899.xml)
-- [繁葉·Feuilleton](http://www.ximalaya.com/album/11662130.xml)：鸟小姐，多语言使用者
+- [繁葉·Feuilleton](http://www.ximalaya.com/album/11662130.xml)：鸟小姐
 - [Aspirin电台](https://aspirinfm.fireside.fm)
 - [海马星球](https://anchor.fm/s/47795d0/podcast/rss)
 - [洋泾浜](https://www.yangjingbang.fm/blog?format=rss)
@@ -82,7 +82,7 @@ categories: recommendation
 - [無調性录音机](http://www.ximalaya.com/album/15357554.xml)
 - [剑桥第八套广播体操](http://rss.lizhi.fm/rss/1483538.xml): 已完结
 - [而我想…成为一个有趣的妞](https://getpodcast.xyz/data/163/428009.xml)
-- [1UP 播客](https://1up.fireside.fm) 每期聊一个好作品
+- [1UP 播客](https://1up.fireside.fm): 每期聊一个好作品
 - [Steve说](https://getpodcast.xyz/data/ximalaya/3385682.xml)
 - [居然有周末](https://feeds.buzzsprout.com/65566.rss)
 - [不丧](https://rss.simplecast.com/podcasts/4335/rss)
@@ -105,27 +105,29 @@ categories: recommendation
 - [不太重要](https://butaizhongyao.fireside.fm)
 - [冒牌电台MapoRadio](http://rss.lizhi.fm/rss/1056014.xml)
 - [理想屯](http://rss.lizhi.fm/rss/3647543.xml)
-##泛科技
+
+## 泛科技
 - [硅谷早知道](http://www.ximalaya.com/album/14233547.xml)：硅谷观察
 - [科技聚变 (TechFusion)](https://techfusionfm.com/podcast.xml)
 - [两个 iT 大叔](http://podcast.lengqidong.com/podcast.xml)
 - [pod了个cast](http://rss.lizhi.fm/rss/74078751.xml)
 - [硅星人FM](https://gxr.fireside.fm/)
 - [德赛塔](https://pinecast.com/feed/detasai)
-- [差分机|A Difference Engine](http://www.spreaker.com/show/2665436/episodes/feed)
+- [差分机](http://www.spreaker.com/show/2665436/episodes/feed)
 - [ggtalk](https://talk.swift.gg/static/rss.xml)
 - [Checked](http://checked.fm/feed/podcast)
 - [Untitled TechTalk](http://utt.one/feed.xml)
 - [声波飞行员](http://rss.lizhi.fm/rss/1635236.xml)
 - [虎扯](https://getpodcast.xyz/data/163/526864575.xml)
-##设计
+
+## 设计
 - [字谈字畅](https://thetype.com/feed/typechat/)
 - [设计药电](https://shejiyaodian.fireside.fm)
 - [Anyway.FM × 设计杂谈](https://anyway.fm)
 - [UX Coffee 设计咖](https://rss.simplecast.com/podcasts/1897/rss)
-- [infoier | 设计乘数](http://rss.lizhi.fm/rss/3479708.xml)
+- [infoier设计乘数](http://rss.lizhi.fm/rss/3479708.xml)
 
-##艺术
+## 艺术
 - [让科技、艺术和你的灵感相遇](https://doko.com/podcasts/feed.xml)
 - [BoomEar](https://www.boomear.fm)
 - [后浪剧场](http://www.ximalaya.com/album/12154265.xml)
@@ -144,4 +146,4 @@ categories: recommendation
 - [俺说](http://cdn102.lizhi.fm/rss/802378.xml/)
 - [游戏领航员JY](http://rss.lizhi.fm/rss/1448168.xml)
 - [Philstrike剧情谈](http://rss.lizhi.fm/rss/1384231.xml)
-- [阿柒的人生](http://rss.lizhi.fm/rss/1815202.xml]
+- [阿柒的人生](http://rss.lizhi.fm/rss/1815202.xml)
