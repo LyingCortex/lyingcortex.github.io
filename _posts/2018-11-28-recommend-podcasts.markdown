@@ -7,27 +7,27 @@ categories: recommendation
 
 从2015年起，陆续听了不少中文播客，不论是独立的小众或非小众播客，还是各类FM云音乐平台，都搜寻了一些自己感兴趣的内容，设计到科技、艺术、读书、游戏、影视、感悟等。
 ## 常听
-- [IPN相关](https://ipn.li/)：一天世界，太医来了，灭茶苦茶，内和恐慌，硬影像，选美，疯投圈
+- [IPN相关](https://ipn.li/) ：一天世界，太医来了，灭茶苦茶，内和恐慌，硬影像，选美，疯投圈
 - [博物志](https://bowuzhi.fm/)
 - [味之道](https://wzd.fm/)
-- [路书](http://lushu88.com/)：艺术史相关
+- [路书](http://lushu88.com/) ：艺术史相关
 - [提前怀旧](https://pretro.xyz)
 - [迟早更新](http://rss.lizhi.fm/rss/1728291.xml)
-- [声东击西](https://www.etw.fm/)：中美文化现象观察
+- [声东击西](https://www.etw.fm/) ：中美文化现象观察
 - [三十早报](https://zaobao.fireside.fm/rss)
-- [不摆了](https://bubaile.net/)：四川朋友关于工作、生活及感悟
-- [沿边物语](https://www.yanbianwuyu.com/)：讨论旧闻的节目
-- [跑题大会](https://getpodcast.xyz/data/ximalaya/14641355.xml)：格子和潘采夫的跑题闲聊
-- [人间指南](https://renjianzhinan.fm/)：HB
+- [不摆了](https://bubaile.net/) ：四川朋友关于工作、生活及感悟
+- [沿边物语](https://www.yanbianwuyu.com/) ：讨论旧闻的节目
+- [跑题大会](https://getpodcast.xyz/data/ximalaya/14641355.xml) ：格子和潘采夫的跑题闲聊
+- [人间指南](https://renjianzhinan.fm/) ：HB
 - [Nick Talk](https://www.nicktalk.com/), [白社匯](https://www.nicktalk.com/baishehui?format=rss)
-- [津津乐道](https://jinjinledao.org/)：天津人，科技，码农，创业，旅游，签证，美食
-- [Byte.Coffe](http://byte.coffee/)：学术新秀
-- [翻转电台](http://rss.lizhi.fm/rss/1057263.xml)：李厚辰的经典阅读
+- [津津乐道](https://jinjinledao.org/) ：天津人，科技，码农，创业，旅游，签证，美食
+- [Byte.Coffe](http://byte.coffee/) ：学术新秀
+- [翻转电台](http://rss.lizhi.fm/rss/1057263.xml) ：李厚辰的经典阅读
 - [USDB优斯迪吧](http://rss.lizhi.fm/rss/319265.xml)
-- [联客](http://rss.lizhi.fm/rss/1040051.xml)：大灰狠，剧情
+- [联客](http://rss.lizhi.fm/rss/1040051.xml) ：大灰狠，剧情
 - [反派影评](http://www.ximalaya.com/album/4127591.xml), [马后炮](https://getpodcast.xyz/data/weixin/fanpaidy-mahoupao.xml), [耳旁风](https://getpodcast.xyz/data/weixin/fanpaidy-erbianfeng.xml) 波米和他的朋友们关于电影的专业评论
-- [北方公园大电台](https://getpodcast.xyz/data/ximalaya/16670237.xml)：落魄的灵魂歌手，木村拓周
-- [不可理论](https://bukelilun.fireside.fm)：记者的观察
+- [北方公园大电台](https://getpodcast.xyz/data/ximalaya/16670237.xml) ：落魄的灵魂歌手，木村拓周
+- [不可理论](https://bukelilun.fireside.fm) ：记者的观察
 - [新闻酸菜馆](http://wasai.org/feed.xml)：
 - [不会聊](https://buhuiliao.fireside.fm/)
 - [文化土豆](http://www.culturepotato.com/)
@@ -36,7 +36,7 @@ categories: recommendation
 - [跟宇宙结婚](http://rss.lizhi.fm/rss/1307862.xml)
 - [小熊喝甜粥](https://getpodcast.xyz/data/163/2733001.xml)
 - [一言不合](http://www.ximalaya.com/album/5971303.xml)
-- [陈腐粉碎机](https://getpodcast.xyz/data/ximalaya/3733966.xml)：建筑、城市规划相关，分析很清奇
+- [陈腐粉碎机](https://getpodcast.xyz/data/ximalaya/3733966.xml) ：建筑、城市规划相关，分析很清奇
 - [忽左忽右](http://www.ximalaya.com/album/12817863.xml)
 - [交差点](https://jiaocha.io)
 - [静说日本](http://www.ximalaya.com/album/3385980.xml)
@@ -44,8 +44,8 @@ categories: recommendation
 - [PAGE SEVEN 胡先笙](http://www.ximalaya.com/album/343368.xml), [胡先笙炼金夜话](https://getpodcast.xyz/data/163/526577852.xml), [笙考数理化](http://podcast-beta.miao.li/xml/netease/341037051/rss.xml)
 - [纽约文化沙龙](http://nyshalong.com/public/rss/itunes_podcast_rss_feed.xml)
 
-## 泛学术
-- [天书FM](http://tianshuguangbo.com/blog?format=RSS)：考古，文字
+## 泛课堂
+- [天书FM](http://tianshuguangbo.com/blog?format=RSS) ：考古，文字
 - [欧丽娟红楼梦](http://podcast-beta.miao.li/xml/lizhi/936538/rss.xml)
 - [《经济学讲义》课程讲授](https://rsshub.app/ximalaya/album/386120.rss)
 - [转折点:职场访谈](https://getpodcast.xyz/data/ximalaya/14481730.xml)
@@ -71,7 +71,7 @@ categories: recommendation
 - [不搭电台](http://rss.lizhi.fm/rss/13342.xml)
 - [因缺思挺](http://rss.lizhi.fm/rss/1511974.xml)
 - [80度radio](http://rss.lizhi.fm/rss/13899.xml)
-- [繁葉·Feuilleton](http://www.ximalaya.com/album/11662130.xml)：鸟小姐
+- [繁葉·Feuilleton](http://www.ximalaya.com/album/11662130.xml) ：鸟小姐
 - [Aspirin电台](https://aspirinfm.fireside.fm)
 - [海马星球](https://anchor.fm/s/47795d0/podcast/rss)
 - [洋泾浜](https://www.yangjingbang.fm/blog?format=rss)
@@ -105,9 +105,12 @@ categories: recommendation
 - [不太重要](https://butaizhongyao.fireside.fm)
 - [冒牌电台MapoRadio](http://rss.lizhi.fm/rss/1056014.xml)
 - [理想屯](http://rss.lizhi.fm/rss/3647543.xml)
+- [执异](https://zhiyi.life/feed/podcast)
+- [回声海滩 EchoBeach](http://rss.lizhi.fm/rss/1722168.xml)
+- [无业游民](https://theue.me/feed/podcast)
 
 ## 泛科技
-- [硅谷早知道](http://www.ximalaya.com/album/14233547.xml)：硅谷观察
+- [硅谷早知道](http://www.ximalaya.com/album/14233547.xml) ：硅谷观察
 - [科技聚变 (TechFusion)](https://techfusionfm.com/podcast.xml)
 - [两个 iT 大叔](http://podcast.lengqidong.com/podcast.xml)
 - [pod了个cast](http://rss.lizhi.fm/rss/74078751.xml)
