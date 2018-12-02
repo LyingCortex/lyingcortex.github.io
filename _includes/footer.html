@@ -6,11 +6,11 @@
         <a href="mailto:{{ site.email }}"><span class="glyphicon glyphicon-envelope"></span> {{ site.email }}</a>
         <span class="point"> · </span>
     {% if site.github_username %}
-		<span> {% include icon-github.html username=site.github_username %} </span>
+		<span class="social-media-list"> {% include icon-github.html username=site.github_username %} </span>
     {% endif %}
 		<span class="point"> · </span> 
 	{% if site.twitter_username %} 
-		<span> {% include icon-twitter.html username=site.twitter_username %} </span>
+		<span class="social-media-list"> {% include icon-twitter.html username=site.twitter_username %} </span>
 	{% endif %}		  
         <span class="point"> · </span>
         <span>&copy; {{ site.time | date: '%Y' }} All rights reserved.</span>
