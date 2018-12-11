@@ -45,7 +45,7 @@ background: '/img/posts/02.jpg'
 - [得意忘形播客](http://rss.lizhi.fm/rss/1959617.xml)
 - [PAGE SEVEN 胡先笙](http://www.ximalaya.com/album/343368.xml), [胡先笙炼金夜话](https://getpodcast.xyz/data/163/526577852.xml), [笙考数理化](http://podcast-beta.miao.li/xml/netease/341037051/rss.xml)
 - [纽约文化沙龙](http://nyshalong.com/public/rss/itunes_podcast_rss_feed.xml)
-- [Harry Potter and the Untitled Podcast]{https://hpup.fireside.fm/} : 婉莹主持
+- [Harry Potter and the Untitled Podcast](https://hpup.fireside.fm/) : 婉莹主持
 
 ## 泛课堂
 - [天书FM](http://tianshuguangbo.com/blog?format=RSS) ：考古，文字
