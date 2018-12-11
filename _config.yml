@@ -2,7 +2,7 @@ title:             Clean Blog
 email:             lyingcortex@outlook.com
 description:       A Blog Owned by LY
 author:            LY
-baseurl:           "/blog"
+baseurl:           ""
 url:               "https://liuyangxtp.com"
 
 # Social Profiles
