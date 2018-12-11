@@ -1,14 +1,14 @@
 title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+email:             lyingcortex@outlook.com
+description:       A Blog Owned by LY
+author:            LY
 baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+url:               "https://liuyangxtp.com"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  You-Know-Who
+github_username:   LyingCortex
+facebook_username: You-Know-Who
 
 # Build settings
 markdown:          kramdown
