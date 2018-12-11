@@ -2,7 +2,7 @@ title:             Clean Blog
 email:             lyingcortex@outlook.com
 description:       A Blog Owned by LY
 author:            LY
-baseurl:           "/startbootstrap-clean-blog-jekyll"
+baseurl:           "/blog"
 url:               "https://liuyangxtp.com"
 
 # Social Profiles
