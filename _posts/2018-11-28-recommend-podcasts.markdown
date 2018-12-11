@@ -10,14 +10,14 @@ background: '/img/posts/02.jpg'
 从2015年起，陆续听了不少中文播客，不论是独立的小众或非小众播客，还是各类FM云音乐平台，都搜寻了一些自己感兴趣的内容，设计到科技、艺术、读书、游戏、影视、感悟等。
 ## 常听
 - [IPN相关](https://ipn.li/) ：一天世界，太医来了，灭茶苦茶，内和恐慌，硬影像，选美，疯投圈
-- [博物志](https://bowuzhi.fm/)
-- [味之道](https://wzd.fm/)
+- [博物志](https://bowuzhi.fm/) ：关于博物馆的一切。
+- [味之道](https://wzd.fm/) 
 - [路书](http://lushu88.com/) ：艺术史相关
 - [提前怀旧](https://pretro.xyz)
 - [迟早更新](http://rss.lizhi.fm/rss/1728291.xml)
 - [声东击西](https://www.etw.fm/) ：中美文化现象观察
 - [三十早报](https://zaobao.fireside.fm/rss)
-- [不摆了](https://bubaile.net/) ：四川朋友关于工作、生活及感悟
+- [不摆了](https://bubaile.net/) ：四川话，关于工作、生活及感悟
 - [沿边物语](https://www.yanbianwuyu.com/) ：讨论旧闻的节目
 - [跑题大会](https://getpodcast.xyz/data/ximalaya/14641355.xml) ：格子和潘采夫的跑题闲聊
 - [人间指南](https://renjianzhinan.fm/) ：HB
@@ -30,13 +30,13 @@ background: '/img/posts/02.jpg'
 - [反派影评](http://www.ximalaya.com/album/4127591.xml), [马后炮](https://getpodcast.xyz/data/weixin/fanpaidy-mahoupao.xml), [耳旁风](https://getpodcast.xyz/data/weixin/fanpaidy-erbianfeng.xml) 波米和他的朋友们关于电影的专业评论
 - [北方公园大电台](https://getpodcast.xyz/data/ximalaya/16670237.xml) ：落魄的灵魂歌手，木村拓周
 - [不可理论](https://bukelilun.fireside.fm) ：记者的观察
-- [新闻酸菜馆](http://wasai.org/feed.xml)：
+- [新闻酸菜馆](http://wasai.org/feed.xml)
 - [不会聊](https://buhuiliao.fireside.fm/)
 - [文化土豆](http://www.culturepotato.com/)
 - [大内密谈](http://rss.lizhi.fm/rss/14275.xml)
 - [日谈公园](http://www.ximalaya.com/album/5574153.xml)
 - [跟宇宙结婚](http://rss.lizhi.fm/rss/1307862.xml)
-- [小熊喝甜粥](https://getpodcast.xyz/data/163/2733001.xml)
+- [小熊喝甜粥](https://getpodcast.xyz/data/163/2733001.xml) : 刀夫老师
 - [一言不合](http://www.ximalaya.com/album/5971303.xml)
 - [陈腐粉碎机](https://getpodcast.xyz/data/ximalaya/3733966.xml) ：建筑、城市规划相关，分析很清奇
 - [忽左忽右](http://www.ximalaya.com/album/12817863.xml)
@@ -45,6 +45,7 @@ background: '/img/posts/02.jpg'
 - [得意忘形播客](http://rss.lizhi.fm/rss/1959617.xml)
 - [PAGE SEVEN 胡先笙](http://www.ximalaya.com/album/343368.xml), [胡先笙炼金夜话](https://getpodcast.xyz/data/163/526577852.xml), [笙考数理化](http://podcast-beta.miao.li/xml/netease/341037051/rss.xml)
 - [纽约文化沙龙](http://nyshalong.com/public/rss/itunes_podcast_rss_feed.xml)
+- [Harry Potter and the Untitled Podcast]{https://hpup.fireside.fm/} : 婉莹主持
 
 ## 泛课堂
 - [天书FM](http://tianshuguangbo.com/blog?format=RSS) ：考古，文字
@@ -69,7 +70,7 @@ background: '/img/posts/02.jpg'
 
 ## 评论、闲谈
 - [冬吴同学会](http://podcast.forecho.com/ximalaya/8475135.rss)
-- [Blow Your Mind](http://rss.lizhi.fm/rss/14774.xml)
+- [Blow Your Mind](http://rss.lizhi.fm/rss/14774.xml) ：峰哥和简里里
 - [不搭电台](http://rss.lizhi.fm/rss/13342.xml)
 - [因缺思挺](http://rss.lizhi.fm/rss/1511974.xml)
 - [80度radio](http://rss.lizhi.fm/rss/13899.xml)
@@ -93,7 +94,7 @@ background: '/img/posts/02.jpg'
 - [随机鸭](https://randomduckpodcast.fireside.fm)
 - [食见](http://www.ximalaya.com/album/16126437.xml)
 - [路易沙东](http://rss.lizhi.fm/rss/303790.xml)
-- [跑题不跑调](http://rss.lizhi.fm/rss/1495475.xml)
+- [跑题不跑调](http://rss.lizhi.fm/rss/1495475.xml) ：武束衣
 - [朋友的捎带](http://fromfriend.com/feed/podcast)
 - [过三情感脱口秀](http://www.ximalaya.com/album/11903827.xml)
 - [我是悠大怪](http://rss.lizhi.fm/rss/503547.xml)
@@ -143,11 +144,11 @@ background: '/img/posts/02.jpg'
 ## 游戏相关
 - [机核GADIO](http://feed.tangsuanradio.com/gadio.xml)
 - [游戏时光 VGtime](http://rss.lizhi.fm/rss/2017105.xml)
-- [游生谈](http://rss.lizhi.fm/rss/359034.xml)
-- [一点儿也不宅](http://rss.lizhi.fm/rss/2795142.xml)
+- [游生谈](http://rss.lizhi.fm/rss/359034.xml) ：多为两人关于游戏的对谈。
+- [一点儿也不宅](http://rss.lizhi.fm/rss/2795142.xml) ：洪韵 RED韵
 - [游必有方](http://rss.lizhi.fm/rss/1044721.xml)
 - [绯雨闲丸99](http://rss.lizhi.fm/rss/3820652.xml)
-- [很NAN说](https://getpodcast.xyz/data/163/348974056.xml)
+- [很NAN说](https://getpodcast.xyz/data/163/348974056.xml) ：Nan老师的吐槽。
 - [俺说](http://cdn102.lizhi.fm/rss/802378.xml/)
 - [游戏领航员JY](http://rss.lizhi.fm/rss/1448168.xml)
 - [Philstrike剧情谈](http://rss.lizhi.fm/rss/1384231.xml)
