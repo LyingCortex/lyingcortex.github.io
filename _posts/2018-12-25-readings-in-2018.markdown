@@ -9,6 +9,7 @@ background: '/img/posts/02.jpg'
 
 # 2018读书总结
 2018年，应该是自2015年以来读书最少的一年。今年读书不多，平均一月一本。读书统计如下：
+
 ## 英文书
 - [The Souls of China](https://book.douban.com/subject/26841649/)：西方人视角下的中国民间思想，书中很多对农村的描写有很强的熟悉感、画面感。从李如一的推荐里得知的此书。
 
@@ -35,4 +36,4 @@ background: '/img/posts/02.jpg'
 - 刘慈欣中短篇小说：[球状闪电](https://book.douban.com/subject/1192090/)，[乡村教师](https://book.douban.com/subject/10767124/)，[流浪地球](https://book.douban.com/subject/3266609/)：有巧妙的设定，有悬疑的气氛，有末世的挣扎。
 
 ## 经济
-- [激荡十年 大鱼大水](https://book.douban.com/subject/27179563/)：最近十年那些值得记录的人和事。
+- [激荡十年，水大鱼大](https://book.douban.com/subject/27179563/)：最近十年那些值得记录的人和事。
