@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "我的精神切片——第一次普鲁斯特问卷"
+subtitle: "精神切片，灵魂拷问。"
+date:   2019-05-06 09:25:09 +0800
+categories: blog
+background: '/img/posts/03.jpg'
+---
+
 # 我的精神切片——第一次普鲁斯特问卷
 
 精神切片，灵魂拷问。
