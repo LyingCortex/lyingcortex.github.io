@@ -1,0 +1,29 @@
+# Uses this（伪利器访谈）
+## Who are you, and what do you do?
+My name is Yang Liu and I'm a radio engineer at Ericsson Beijing.
+Work and life balance is my philosophy, and it is also the reason that I joined Ericsson. My working time is from 9 am to 6 pm, and my job is now focused on filter design, evaluating, testing and massive production. My leisure time is taken up by something meaningful for my mind, such reading, riding, running and watching movies and TV series. 
+## What hardware do you use?
+- MacBook Pro 2018, entertainment equipment with astonishing displaly.
+- ThinkPad E420, fantastic keyboard, better than MBP.
+- HP Elite Book, mainly for work.
+- Dell display P2419HC, mainly for work. 
+- Huawei Honor V10
+- iPad, used not very often.
+- Sony headphone, listening to the good voice.
+- Sony Playstation 4, diving into another world to feel the real world feeling.
+- Kindle 7, reading when available.
+
+
+
+## And what software?
+- Pocket Casts, all-platform podcast software, recently free for all users.
+- MarginNote 3, reading software for pdf and epub, featured for its note-taking and mind-map, recommended by Joyshare Li Houchen, host of podcast Flip Radio.
+- MWeb/VS code, article and code writing, especially in markdown form.
+- Telegram, communication and information.
+- WeChat/QQ, communication and moments.
+- OneNote, clipping, diary and notes.
+- Keepass, open source password manager.
+- HFSS, ADS, Filttune, CST, MATLAB, professional software for work.
+
+## What would be your dream setup?
+Just quiet room with simple 
